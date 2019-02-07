@@ -24,6 +24,8 @@ url: "https://warthurton.github.io" # the base hostname & protocol for your site
 twitter_username: warthurton
 github_username:  warthurton
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 theme: minima
