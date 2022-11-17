@@ -4,3 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+ <a rel="me" href="https://hachyderm.io/@warthurton">Mastodon</a>
